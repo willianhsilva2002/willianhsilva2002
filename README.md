@@ -1,4 +1,4 @@
-# Olá, eu sou Willian Henrique Silva! 👋✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&width=650&height=80&lines=Ol%C3%A1%2C+eu+sou+Willian+Henrique+Silva!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Desenvolvedor em Formação | Entusiasta da Tecnologia
 
